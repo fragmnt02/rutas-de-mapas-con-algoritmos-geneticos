@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Trayectorias - Algoritmos Genéticos</string>
+    <string name="origenSelec">Seleccione Origen</string>
+    <string name="destinoSelec">Seleccione Destino</string>
+    <string name="recorrido">Recorrido:</string>
+
+    <string-array name="lugares">
+        <item>ACALLAN</item>
+        <item>AGUA SELVA</item>
+        <item>BAJADAS GRANDES</item>
+        <item>BALANCAN</item>
+        <item>BALNEARIO NUEVO PARAISO</item>
+        <item>BELEN</item>
+        <item>BENITO JUAREZ</item>
+        <item>BOCA DEL CERRO</item>
+        <item>CANGREJOPOLIS</item>
+        <item>CANON DEL USUMACINTA</item>
+        <item>CARDENAS</item>
+        <item>CARLOS ROVIROSA</item>
+        <item>CASCADAS DE AGUA BLANCA</item>
+        <item>CASCADAS DE REFORMA</item>
+        <item>CENTRO DE INTERPRETACION UYOTOT-JA </item>
+        <item>CENTRO TURISTICO PLAYA PARAISO</item>
+        <item>CHABLE</item>
+        <item>CHILTEPEC</item>
+        <item>CIUDAD PEMEX</item>
+        <item>COCONA</item>
+        <item>COMALCALCO</item>
+        <item>CORONEL ANDRES SANCHEZ MAGALLANES</item>
+        <item>CUESTA CHICA</item>
+        <item>CUNDUACAN</item>
+        <item>CUPILCO</item>
+        <item>DESARROLLO TURISTICO AGUA Y CIELO</item>
+        <item>DOS BOCAS</item>
+        <item>EL ALACRAN</item>
+        <item>EL BELLOTE</item>
+        <item>EL CUYO</item>
+        <item>EL ESPINO</item>
+        <item>EL GOLPE</item>
+        <item>EL LLANO</item>
+        <item>EL TRIUNFO</item>
+        <item>EL TULIPAN</item>
+        <item>EL YUCATECO</item>
+        <item>EMILIANO ZAPATA</item>
+        <item>ESTACION CHONTALPA</item>
+        <item>ESTACION DE SERVICIO TRES BRAZOS</item>
+        <item>EX CONVENTO DE OXOLOTAN</item>
+        <item>FRANCISCO J. MUJICA</item>
+        <item>FRONTERA</item>
+        <item>GRANJA DE TORTUGAS: LA ENCANTADA</item>
+        <item>HACIENDA LA CHONITA</item>
+        <item>HACIENDA LOS AZUFRES</item>
+        <item>HERRADURA</item>
+        <item>HUIMANGUILLO</item>
+        <item>HUMEDALES POMPOS JULIVA</item>
+        <item>IGLESIA LAS MIRANDILLAS</item>
+        <item>J. SANTAMARIA</item>
+        <item>JALAPA</item>
+        <item>JALPA DE MENDEZ</item>
+        <item>JONUTA</item>
+        <item>KOLEM CHEN</item>
+        <item>KOLEM JAA</item>
+        <item>LA PALMA</item>
+        <item>LA VENTA</item>
+        <item>LAGUNA NUEVA ESPERANZA</item>
+        <item>LAGUNAS DEL ROSARIO</item>
+        <item>LAS CANICAS</item>
+        <item>MACTUN</item>
+        <item>MACUSPANA</item>
+        <item>MALPASITO</item>
+        <item>MANATINERO ALACRAN</item>
+        <item>MUSEO DE LA SIERRA</item>
+        <item>NACAJUCA</item>
+        <item>OXOLOTAN</item>
+        <item>PANTANOS DE CENTLA</item>
+        <item>PARAISO</item>
+        <item>PARQUE ECOLOGICO OLMECA</item>
+        <item>PLAYA AZUL</item>
+        <item>PLAYA EL BOSQUE</item>
+        <item>PLAYA MIRAMAR</item>
+        <item>PLAYA PICO DE ORO</item>
+        <item>POMONA</item>
+        <item>PUERTO CEIBA</item>
+        <item>REFORMA</item>
+        <item>SAN CLAUDIO</item>
+        <item>SAN GER�NIMO</item>
+        <item>SAN PEDRO</item>
+        <item>SANTA CRUZ</item>
+        <item>SANTA ELENA</item>
+        <item>TACOTALPA</item>
+        <item>TAPIJULAPA</item>
+        <item>TASISTE</item>
+        <item>TEAPA</item>
+        <item>TEMPLO DE SAN ANTONIO DE PADUA</item>
+        <item>TEMPLO DE SAN FRANCISCO DE ASIS</item>
+        <item>TENOSIQUE</item>
+        <item>TOMAS GARRIDO</item>
+        <item>TULIPAN</item>
+        <item>VILLA BENITO JUAREZ</item>
+        <item>VILLA LUZ</item>
+        <item>VILLA TECOLUTILLA</item>
+        <item>VILLAHERMOSA</item>
+        <item>YUMKA</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
